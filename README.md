@@ -1,2 +1,2 @@
 # test-repo
-Testing purposes
+this is only for testing purposes of github
